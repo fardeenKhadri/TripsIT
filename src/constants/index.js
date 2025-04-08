@@ -16,11 +16,11 @@ export const tourismPlaces = [
   },
   {
     id: 2,
-    title: "Tipu Sultan’s Summer Palace – A Glimpse into Royalty",
+    title: "Mysore Palace – A Glimpse into History",
     description:
-      "Nestled in the heart of Bengaluru, Tipu Sultan’s Summer Palace is a stunning example of Indo-Islamic architecture and a window into the life of the ‘Tiger of Mysore.’",
+      "Mysore Palace is a magnificent royal residence in Karnataka, known for its stunning Indo-Saracenic architecture and rich cultural heritage.’",
     article:
-      "Tipu Sultan’s Summer Palace, located in Bengaluru, is a magnificent structure that reflects the grandeur of the 18th-century Mysorean ruler. Built entirely of teakwood, the palace is adorned with exquisite floral motifs, ornate balconies, and intricately carved pillars. It served as Tipu Sultan’s retreat during summers, showcasing his love for art and architecture. The two-story structure, with its elegant arches and airy corridors, provides a glimpse into the opulent lifestyle of the Sultan. The palace also houses a small museum displaying artifacts, paintings, and Tipu’s personal belongings, offering insight into his valiant resistance against British rule. Surrounded by lush gardens, this historic gem is a must-visit for history buffs and architecture enthusiasts alike. A trip to this palace is a journey back in time, celebrating the legacy of one of India’s most formidable rulers.",
+      "Mysore Palace, also known as Amba Vilas Palace, is a grand royal residence in Mysuru, Karnataka. It was the official home of the Wadiyar dynasty and was completed in 1912 in the Indo-Saracenic architectural style, blending Hindu, Muslim, Rajput, and Gothic influences. Designed by British architect Henry Irwin, the palace is known for its intricate interiors and vibrant decorations. It becomes especially stunning during the annual Dasara festival, when it’s illuminated with over 100,000 lights. Today, it stands as one of India’s most visited tourist attractions. The palace complex also includes beautiful gardens, temples, and a royal gallery showcasing artifacts and portraits from the Wadiyar era. Its grandeur and rich history make it a symbol of Karnataka’s royal heritage.",
     image: "/assets/images/2-0.jpeg",
     photos: [
       "/assets/images/2-1.jpg",
@@ -31,11 +31,11 @@ export const tourismPlaces = [
   },
   {
     id: 3,
-    title: "Gokarna – Where Serenity Meets Adventure",
+    title: "Lal Bagh – Where History Meets Nature",
     description:
-      "A coastal paradise in Karnataka, Gokarna is known for its pristine beaches, ancient temples, and hidden historical gems, making it a perfect getaway for nature lovers and explorers alike.",
+      "Lalbagh is a lush green escape in the heart of Bengaluru, known for its centuries-old trees, vibrant flower shows, and the iconic glasshouse that steals the spotlight.",
     article:
-      "Gokarna, a serene town on the Konkan coast, is a blend of spirituality, history, and adventure. Om Beach, named for its naturally occurring ‘Om’ shape, is a favorite among travelers for its golden sands and thrilling water sports. Just a short drive away, Mirjan Fort stands as a silent guardian of history, with its majestic laterite walls whispering tales of battles and bravery from the Vijayanagara era. For those seeking a unique experience, Gokarna’s lesser-known salt lakes offer a tranquil escape, reflecting the sky in their crystal-clear waters. Whether you're trekking along hidden coastal trails, indulging in local seafood, or exploring ancient ruins, Gokarna promises an unforgettable journey. With its unspoiled beauty and rich cultural heritage, this coastal gem is a must-visit for anyone looking to unwind or embark on an adventure.",
+      "Lalbagh Botanical Garden, located in the heart of Bengaluru, is a serene haven spread over 240 acres, known for its rich collection of exotic plants and ancient trees. Originally commissioned by Hyder Ali in the 18th century and later expanded by his son Tipu Sultan, the garden reflects Mughal-style landscaping and houses over 1,000 species of plants. One of its main attractions is the stunning glasshouse, inspired by London’s Crystal Palace, which hosts vibrant flower shows every year. Lalbagh also features a serene lake, rocky outcrops, and walking paths, making it a favorite spot for nature lovers, joggers, and photographers. It's not just a garden—it's a green retreat steeped in history and beauty.",
     image: "/assets/images/3-0.jpeg",
     photos: [
       "/assets/images/3-1.jpg",
